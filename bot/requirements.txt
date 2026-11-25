@@ -1,0 +1,5 @@
+# Pokémon TCG Local Stock Tracker — Discord bot
+# Install: pip install -r requirements.txt
+# Python 3.11+ recommended.
+discord.py>=2.3,<3
+httpx>=0.27,<1
